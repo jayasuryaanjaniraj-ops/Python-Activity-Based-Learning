@@ -1,0 +1,71 @@
+========================================================================================================
+               MANUFACTURING COST AND PROFITABILITY ANALYSIS - MARCH 2026
+               Name : Jaya Surya Ravuri        Roll No : 26000542
+========================================================================================================
+Rates      : labour Rs.220.00 per hour, machine Rs.480.00 per hour
+Overhead   : 12% of the prime cost
+Quality    : a batch wasting more than 12% of the material is rejected
+Target     : profit margin of at least 18% of the selling value
+
+========================================================================================================
+COST SHEET OF EVERY BATCH
+--------------------------------------------------------------------------------------------------------
+Batch    Code     Product               Units   Wastage    Material     Labour    Machine     Overhead   Total cost
+--------------------------------------------------------------------------------------------------------
+B-2601   FG-101   Steel hinge 4 inch     1200     28.8kg    27974.40   21120.00   16320.00      7849.73     73264.13
+B-2602   FG-102   Aluminium bracket       600     13.5kg    42402.00   16280.00   20160.00      9461.04     88303.04
+B-2603   FG-103   MS clamp               2500     55.8kg    24824.80   24200.00   13440.00      7495.78     69960.58
+B-2604   FG-104   Powder coated hook      400     39.0kg    46410.00   19360.00   26880.00     11118.00    103768.00
+B-2605   FG-105   Stainless spacer        900      5.7kg    32252.50   13640.00   14400.00      7235.10     67527.60
+B-2606   FG-101   Steel hinge 4 inch     1500     42.8kg    32689.50   25960.00   19200.00      9341.94     87191.44
+--------------------------------------------------------------------------------------------------------
+TOTAL COST OF ALL BATCHES                                                            490014.78
+TOTAL SALES VALUE OF ALL BATCHES                                                     578400.00
+
+========================================================================================================
+UNIT COST, SELLING PRICE AND PROFITABILITY
+--------------------------------------------------------------------------------------------------------
+Batch    Product                Cost/unit  Price/unit      Revenue       Profit  Margin  Status
+--------------------------------------------------------------------------------------------------------
+B-2601   Steel hinge 4 inch         61.05       78.00     93600.00     20335.87   21.7%  MEETS TARGET
+B-2602   Aluminium bracket         147.17      158.00     94800.00      6496.96    6.9%  BELOW TARGET
+B-2603   MS clamp                   27.98       36.00     90000.00     20039.42   22.3%  MEETS TARGET
+B-2604   Powder coated hook        259.42      300.00    120000.00     16232.00   13.5%  REJECTED - wastage above 12%
+B-2605   Stainless spacer           75.03       70.00     63000.00     -4527.60   -7.2%  LOSS MAKING
+B-2606   Steel hinge 4 inch         58.13       78.00    117000.00     29808.56   25.5%  MEETS TARGET
+--------------------------------------------------------------------------------------------------------
+Batches meeting the profit target : 3
+Batches below the profit target   : 1
+Loss making batches               : 1
+Batches rejected for wastage      : 1
+
+========================================================================================================
+OBSERVATIONS
+--------------------------------------------------------------------------------------------------------
+Best batch  : B-2606 (Steel hinge 4 inch) with a margin of 25.5%
+Worst batch : B-2605 (Stainless spacer) with a margin of -7.2%
+B-2601   largest cost head is material  (Rs.27974.40 of Rs.73264.13)
+B-2602   largest cost head is material  (Rs.42402.00 of Rs.88303.04)
+B-2603   largest cost head is material  (Rs.24824.80 of Rs.69960.58)
+B-2604   largest cost head is material  (Rs.46410.00 of Rs.103768.00)
+B-2605   largest cost head is material  (Rs.32252.50 of Rs.67527.60)
+B-2606   largest cost head is material  (Rs.32689.50 of Rs.87191.44)
+
+--------------------------------------------------------------------------------------------------------
+SUGGESTIONS TO REACH THE TARGET
+--------------------------------------------------------------------------------------------------------
+B-2602   short of the target by Rs.10567.04 (Rs.17.61 per unit)
+         option 1 : raise the selling price to Rs.175.61 per unit
+         option 2 : reduce the total cost by 12.0% (to Rs.77736.00)
+B-2604   short of the target by Rs.5368.00 (Rs.13.42 per unit)
+         option 1 : raise the selling price to Rs.313.42 per unit
+         option 2 : reduce the total cost by 5.2% (to Rs.98400.00)
+B-2605   short of the target by Rs.15867.60 (Rs.17.63 per unit)
+         option 1 : raise the selling price to Rs.87.63 per unit
+         option 2 : reduce the total cost by 23.5% (to Rs.51660.00)
+
+========================================================================================================
+Overall factory profit : Rs.88385.22
+Overall margin         : 15.28%
+========================================================================================================
+End of the manufacturing cost report

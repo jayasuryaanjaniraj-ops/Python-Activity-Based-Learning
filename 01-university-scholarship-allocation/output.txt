@@ -1,0 +1,50 @@
+==============================================================================
+        UNIVERSITY SCHOLARSHIP ALLOCATION - ELIGIBILITY REPORT
+        Name : Jaya Surya Ravuri        Roll No : 26000542
+==============================================================================
+Policy : aggregate >= 60 | every subject >= 50 | attendance >= 75% | income <= Rs.500000
+Scholarships available (quota) : 4
+
+1. MERIT LIST OF ELIGIBLE APPLICANTS
+------------------------------------------------------------------------------
+Rank Roll No    Name           Aggregate   Attend%     Income
+------------------------------------------------------------------------------
+1    26000605   E. Fatima          91.20      97.0     250000
+2    26000609   I. Praveen         85.40      92.0     350000
+3    26000601   A. Meghana         80.80      92.0     320000
+4    26000608   H. Ishwarya        61.40      88.0     410000
+5    26000604   D. Sandeep         61.40      76.0     495000
+------------------------------------------------------------------------------
+Total eligible : 5      Total rejected : 5
+
+2. TIE RESOLUTION LOG
+------------------------------------------------------------------------------
+Tie on aggregate 61.40 between H. Ishwarya and D. Sandeep
+   -> attendance decides : 88.0% vs 76.0%
+
+3. APPLICATIONS NOT CONSIDERED (with reasons)
+------------------------------------------------------------------------------
+26000602  B. Karthik     aggregate = 58.60
+      x aggregate 58.6 is below 60
+      x Physics mark 48 is below 50
+26000603  C. Vaishnavi   aggregate = 72.00
+      x family income 610000 is above 500000
+26000606  F. Ganesh      aggregate = 55.40
+      x aggregate 55.4 is below 60
+      x Chemistry mark 49 is below 50
+      x attendance 71.0% is below 75%
+26000607  G. Harshini    aggregate = 72.20
+      x family income 540000 is above 500000
+26000610  J. Nandini     aggregate = 69.80
+      x attendance 69.0% is below 75%
+------------------------------------------------------------------------------
+
+4. FINAL AWARD LIST (top 4 as per quota)
+------------------------------------------------------------------------------
+Scholarship 1 : E. Fatima (26000605) - aggregate 91.20
+Scholarship 2 : I. Praveen (26000609) - aggregate 85.40
+Scholarship 3 : A. Meghana (26000601) - aggregate 80.80
+Scholarship 4 : H. Ishwarya (26000608) - aggregate 61.40
+Waiting list   : 1 eligible applicant(s) could not be accommodated.
+==============================================================================
+End of report - University Scholarship Allocation

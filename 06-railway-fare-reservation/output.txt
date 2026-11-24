@@ -1,0 +1,54 @@
+========================================================================================================
+             RAILWAY FARE AND RESERVATION CALCULATOR - E-TICKET
+             Name : Jaya Surya Ravuri        Roll No : 26000542
+========================================================================================================
+Train      : 12704 Falaknuma Express (Secunderabad - Howrah)
+Journey    : Secunderabad (SC) to Howrah (HWH), 1548 km
+Sleeper fare for this distance : Rs.992.40
+Class multipliers : 2S x0.55, SL x1.00, 3A x2.45, 2A x3.40, 1A x5.60
+Concessions : child below 5 free, below 12 = 50%, age 60+ = 30%
+              lady passengers get 30% (added to the senior concession)
+Charges     : reservation Rs.40, insurance Rs.0.50, service tax 5%,
+              Tatkal style autofill Rs.30 only for non confirmed tickets
+
+========================================================================================================
+PASSENGER WISE FARE DETAILS
+--------------------------------------------------------------------------------------------------------
+No  Passenger          Age  G Cls  Sts       Base  Conc% Concession  Charges      Tax     Total
+--------------------------------------------------------------------------------------------------------
+1   Ravuri Jaya Surya   20  M SL   CNF     992.40    0.0      0.00    40.50    51.65   1084.55
+2   Ravuri Anjani Raj   16  M SL   CNF     992.40    0.0      0.00    40.50    51.65   1084.55
+3   S. Lakshmi Devi     67  F 3A   CNF    2431.38   60.0   1458.83    40.50    50.65   1063.70
+4   K. Baby Aarav        3  M SL   CNF     992.40  100.0    992.40     0.50     0.03      0.53
+5   M. Divya            24  F 2S   WL      545.82   30.0    163.75    70.50    22.63    475.20
+6   T. Ramesh           45  M 2A   CNF    3374.16    0.0      0.00    40.50   170.73 CANCELLED
+7   P. Sravani          10  F SL   RAC     992.40   50.0    496.20    70.50    28.34    595.04
+8   B. Nagamani         63  F 1A   CNF    5557.44   60.0   3334.46    40.50   113.17   2376.65
+--------------------------------------------------------------------------------------------------------
+Amount payable for this PNR : Rs.6680.21
+
+========================================================================================================
+CONCESSION NOTES AND CANCELLATION DETAILS
+--------------------------------------------------------------------------------------------------------
+1. Ravuri Jaya Surya  SL   age 20 - no concession
+2. Ravuri Anjani Raj  SL   age 16 - no concession
+3. S. Lakshmi Devi    3A   age 67 - senior citizen 30% + lady passenger 30%
+4. K. Baby Aarav      SL   age  3 - child below 5 years - no fare
+5. M. Divya           2S   age 24 - lady passenger concession 30%
+6. T. Ramesh          2A   age 45 - no concession
+     cancelled 30 hours before departure | penalty Rs.896.35 | refund Rs.2689.04
+7. P. Sravani         SL   age 10 - child concession 50%
+8. B. Nagamani        1A   age 63 - senior citizen 30% + lady passenger 30%
+
+========================================================================================================
+BOOKING SUMMARY
+--------------------------------------------------------------------------------------------------------
+Confirmed passengers      : 5
+Waiting / RAC passengers  : 2
+Cancelled passengers      : 1
+Total collected           : Rs.6680.21
+Total refunded            : Rs.2689.04
+Total retained as penalty : Rs.896.35
+Highest fare in this PNR  : Rs.2376.65 (B. Nagamani)
+========================================================================================================
+End of the railway fare statement

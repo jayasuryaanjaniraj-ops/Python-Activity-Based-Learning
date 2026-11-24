@@ -1,0 +1,58 @@
+==============================================================================================
+          HOSPITAL BILLING AND PATIENT CLASSIFICATION - DAILY STATEMENT
+          Name : Jaya Surya Ravuri        Roll No : 26000542
+==============================================================================================
+Rates    : consultation Rs.450 (general) / Rs.900 (specialist), ward Rs.1200 per day
+Concession : 8% for a stay longer than 7 days, 5% for age 60 and above
+Insurance  : insurer bears 20% of the amount after concession
+Payment    : bills above Rs.25000 need a 25% token and 3 instalments
+Categories : A < 5000 <= B < 15000 <= C < 30000 <= D
+
+==============================================================================================
+BILLS OF VALID PATIENT RECORDS
+----------------------------------------------------------------------------------------------
+PID      Patient            Age Consult      Consult Diagnostics Treatment  Days   Subtotal    Conc%
+----------------------------------------------------------------------------------------------
+P-1001   Ravuri Jaya Surya   20 general          450      1800      6400     4   13450.00      0.0
+         ward charge 4800.00 | concession 0.00 (none) | insurer 0.00 | PAYABLE 13450.00
+P-1002   S. Lakshmi Devi     67 specialist       900      4200     18500     9   34400.00     13.0
+         ward charge 10800.00 | concession 4472.00 (long stay 8% + senior citizen 5%) | insurer 5985.60 | PAYABLE 23942.40
+P-1003   M. Anil Kumar       35 general          450       900         0     1    2550.00      0.0
+         ward charge 1200.00 | concession 0.00 (none) | insurer 0.00 | PAYABLE 2550.00
+P-1004   T. Bhavani          52 specialist       900     12500     42000    12   69800.00      8.0
+         ward charge 14400.00 | concession 5584.00 (long stay 8%) | insurer 12843.20 | PAYABLE 51372.80
+P-1005   K. Ramesh           44 general          450      2600      9800     6   20050.00      0.0
+         ward charge 7200.00 | concession 0.00 (none) | insurer 4010.00 | PAYABLE 16040.00
+P-1006   V. Padmavathi       71 specialist       900      7500     22000    15   48400.00     13.0
+         ward charge 18000.00 | concession 6292.00 (long stay 8% + senior citizen 5%) | insurer 0.00 | PAYABLE 42108.00
+P-1008   B. Sravani          61 general          450      3100      7600     8   20750.00     13.0
+         ward charge 9600.00 | concession 2697.50 (long stay 8% + senior citizen 5%) | insurer 3610.50 | PAYABLE 14442.00
+----------------------------------------------------------------------------------------------
+Subtotal billed      : Rs.209400.00
+Collected from patients : Rs.163905.20
+Paid by insurers     : Rs.26449.30
+
+==============================================================================================
+PATIENT CLASSIFICATION AND PAYMENT INSTRUCTION
+----------------------------------------------------------------------------------------------
+PID      Patient                 Payable  Category       Payment route
+----------------------------------------------------------------------------------------------
+P-1001   Ravuri Jaya Surya      13450.00  B - moderate   FULL SETTLEMENT at discharge
+P-1002   S. Lakshmi Devi        23942.40  C - major      FULL SETTLEMENT at discharge
+P-1003   M. Anil Kumar           2550.00  A - minor      FULL SETTLEMENT at discharge
+P-1004   T. Bhavani             51372.80  D - critical   INSTALMENT PLAN - pay Rs.12843.20 token now, balance in 3 EMIs
+P-1005   K. Ramesh              16040.00  C - major      FULL SETTLEMENT at discharge
+P-1006   V. Padmavathi          42108.00  D - critical   INSTALMENT PLAN - pay Rs.10527.00 token now, balance in 3 EMIs
+P-1008   B. Sravani             14442.00  B - moderate   FULL SETTLEMENT at discharge
+----------------------------------------------------------------------------------------------
+Category wise count :  A = 1   B = 2   C = 2   D = 2
+
+==============================================================================================
+RECORDS REJECTED BY THE BILLING CONSTRAINTS
+----------------------------------------------------------------------------------------------
+P-1007  N. Kiran          
+      x diagnostic charge -300 is negative
+----------------------------------------------------------------------------------------------
+Valid records : 7      Rejected records : 1
+==============================================================================================
+End of hospital billing statement

@@ -1,0 +1,90 @@
+============================================================================================
+                 CAMPUS EVENT FINANCIAL PLANNING
+                 Name : Jaya Surya Ravuri        Roll No : 26000542
+============================================================================================
+Event     : TECHNOVA 2026 - National Level Technical Fest
+College   : Department of Computer Science
+Organiser : Ravuri Jaya Surya (26000542)
+Duration  : 2 days
+
+============================================================================================
+COST SHEET
+--------------------------------------------------------------------------------------------
+Cost head                                  Type         Amount  For 150 heads
+--------------------------------------------------------------------------------------------
+Venue rent (2 days)                       fixed       18000.00       18000.00
+Sound and projection                      fixed        9500.00        9500.00
+Stage decoration                          fixed        6500.00        6500.00
+Transport for guests                      fixed        7000.00        7000.00
+Printing and banners                      fixed        4200.00        4200.00
+Catering (2 lunches + snacks)          per head         150.00       22500.00
+Participation certificate              per head          20.00        3000.00
+Event kit and badge                    per head          40.00        6000.00
+--------------------------------------------------------------------------------------------
+TOTAL                                                 45200.00       76700.00
+Fixed cost of the event                               45200.00
+Variable cost per participant                           210.00
+
+============================================================================================
+FUNDING POSITION
+--------------------------------------------------------------------------------------------
+Sponsorship received                                           40000.00
+Total cost for 150 participants                                76700.00
+Shortfall to be met from registration fees                     36700.00
+Contribution needed per participant                              244.67
+Maximum fee a participant will pay                               260.00
+Result : the expected 150 registrations are enough, the fee of Rs.244.67
+         is within the acceptable limit of Rs.260.00.
+
+============================================================================================
+SCENARIO ANALYSIS FOR DIFFERENT REGISTRATION COUNTS
+--------------------------------------------------------------------------------------------
+Participants       Total cost    Sponsorship   Fee per head      Verdict 
+--------------------------------------------------------------------------------------------
+40                   53600.00       40000.00         340.00 fee too high
+80                   62000.00       40000.00         275.00 fee too high
+120                  70400.00       40000.00         253.33 FEASIBLE    
+150                  76700.00       40000.00         244.67 FEASIBLE    
+200                  87200.00       40000.00         236.00 FEASIBLE    
+260                  99800.00       40000.00         230.00 FEASIBLE    
+300                 108200.00       40000.00         227.33 FEASIBLE    
+400                 129200.00       40000.00         223.00 FEASIBLE    
+
+============================================================================================
+BREAK EVEN ANALYSIS
+--------------------------------------------------------------------------------------------
+Minimum registrations needed to break even : 104
+Fee at that count                          : Rs.260.00
+Total cost at that count                   : Rs.67040.00
+Total collection (fees + sponsorship)      : Rs.67040.00
+Registration fee if only 100 people come   : Rs.262.00
+
+With only 103 participants the fee would have to be Rs.260.49,
+which is above the acceptable limit - so 104 is the exact break even count.
+
+Rule used : a count n works only when
+            n x fee(n) + sponsorship >= total cost(n),
+            that is, fee(n) = (total cost - sponsorship) / n <= Rs.260.00.
+
+============================================================================================
+FINAL PLAN FOR 150 PARTICIPANTS
+--------------------------------------------------------------------------------------------
+Registration fee per participant                                 244.67
+Total registration collection                                  36700.00
+Sponsorship                                                    40000.00
+Total income                                                   76700.00
+Total expenditure                                              76700.00
+Balance in hand                                                    0.00
+
+The fees and the sponsorship exactly meet the expenditure,
+so the event breaks even with 150 participants.
+
+--------------------------------------------------------------------------------------------
+RISK CHECK
+--------------------------------------------------------------------------------------------
+If the sponsorship comes down by 20% to Rs.32000.00,
+the fee per participant rises from Rs.244.67 to Rs.298.00.
+That is above the limit of Rs.260.00, so the committee should keep a
+backup sponsor or reduce the decoration budget.
+============================================================================================
+End of the event financial plan

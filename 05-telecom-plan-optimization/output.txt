@@ -1,0 +1,50 @@
+====================================================================================================
+        MULTI-PLAN TELECOMMUNICATIONS COST OPTIMIZATION - PLAN ADVISOR
+        Customer : Ravuri Jaya Surya        Roll No : 26000542
+====================================================================================================
+Monthly usage   : 2.4 GB data, 620 minutes of calls, 180 SMS
+Requirements    : validity of at least 84 days and total cost within Rs.800
+Excess charges  : Rs.18.00 per extra GB, Rs.0.60 per extra minute, Rs.0.80 per extra SMS
+
+====================================================================================================
+PLAN WISE EVALUATION
+----------------------------------------------------------------------------------------------------
+Plan               Price   Days    ExData   ExCalls   ExSMS   Excess Rs    Total Rs Status
+----------------------------------------------------------------------------------------------------
+Smart Saver 149      149     28      1.4GB      320     80      281.20      430.20 NOT ELIGIBLE
+Value 299            299     56      0.9GB      120     80      152.20      451.20 NOT ELIGIBLE
+Daily 399            399     56      0.0GB       20     30       36.00      435.00 NOT ELIGIBLE
+Quarterly 549        549     84      0.4GB        0      0        7.20      556.20 OK
+Super 699            699     84      0.0GB        0      0        0.00      699.00 OK
+Ultra 999            999     84      0.0GB        0      0        0.00      999.00 NOT ELIGIBLE
+Combo 449            449     84      0.9GB       20     80       92.20      541.20 OK
+
+====================================================================================================
+FEASIBLE PLANS ARRANGED FROM THE CHEAPEST
+----------------------------------------------------------------------------------------------------
+1. Combo 449        price  449 + excess   92.20 = Rs.  541.20 for 84 days
+2. Quarterly 549    price  549 + excess    7.20 = Rs.  556.20 for 84 days
+3. Super 699        price  699 + excess    0.00 = Rs.  699.00 for 84 days
+
+====================================================================================================
+RECOMMENDED PLAN : Combo 449
+----------------------------------------------------------------------------------------------------
+Plan price        : Rs.449
+Validity          : 84 days (requirement is 84 days)
+Excess data       : 0.9 GB x Rs.18.00 = Rs.16.20
+Excess calls      : 20 min x Rs.0.60 = Rs.12.00
+Excess SMS        : 80 x Rs.0.80 = Rs.64.00
+Total monthly cost: Rs.541.20
+Money left in the budget : Rs.258.80
+Saving compared with the next best plan (Quarterly 549) : Rs.15.00
+
+----------------------------------------------------------------------------------------------------
+PLANS THAT WERE NOT CONSIDERED
+----------------------------------------------------------------------------------------------------
+Smart Saver 149  -> validity only 28 days, 84 required
+Value 299        -> validity only 56 days, 84 required
+Daily 399        -> validity only 56 days, 84 required
+Ultra 999        -> total Rs.999.00 crosses the budget of Rs.800
+Total plans rejected : 4 out of 7
+====================================================================================================
+End of plan comparison

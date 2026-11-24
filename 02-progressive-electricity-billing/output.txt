@@ -1,0 +1,73 @@
+============================================================================================
+             PROGRESSIVE ELECTRICITY BILLING - ANNUAL STATEMENT
+             Name : Jaya Surya Ravuri        Roll No : 26000542
+============================================================================================
+Tariff  : slab 1-100 @ Rs.1.90 | 101-200 @ Rs.3.00
+          201-500 @ Rs.4.50 | above 500 @ Rs.6.00 per unit
+Fixed charge Rs.110 + duty 6% + surcharge 2% above 500 units
+Rebate    : 30% of energy charge when usage is 100 units or less
+A rise of more than 25% over the previous month is reported as unusual.
+
+============================================================================================
+CONSUMER : Ravuri Jaya Surya  (AP-4471205)
+============================================================================================
+Month        Units     Energy    Fixed     Duty  Surcharge      Bill  Remarks
+--------------------------------------------------------------------------------------------
+April           96     182.40   110.00    10.94      0.00    248.62  low usage rebate applied (rebate Rs.54.72)
+May            118     244.00   110.00    14.64      0.00    368.64  UNUSUAL RISE of 48.3%
+June           172     406.00   110.00    24.36      0.00    540.36  UNUSUAL RISE of 46.6%
+July           205     512.50   110.00    30.75      0.00    653.25  rise of 20.9%
+August         260     760.00   110.00    45.60      0.00    915.60  UNUSUAL RISE of 40.2%
+September      241     674.50   110.00    40.47      0.00    824.97  fell by 9.9%
+October        198     484.00   110.00    29.04      0.00    623.04  fell by 24.5%
+November       176     418.00   110.00    25.08      0.00    553.08  fell by 11.2%
+December       164     382.00   110.00    22.92      0.00    514.92  fell by 6.9%
+January        189     457.00   110.00    27.42      0.00    594.42  rise of 15.4%
+February       236     652.00   110.00    39.12      0.00    801.12  UNUSUAL RISE of 34.8%
+March          288     886.00   110.00    53.16      0.00   1049.16  UNUSUAL RISE of 31.0%
+--------------------------------------------------------------------------------------------
+Total units for the year : 2343
+Total amount payable     : Rs.7687.18
+Average units per month  : 195.25
+Average bill per month   : Rs.640.60
+Highest bill             : Rs.1049.16 in March
+Lowest bill              : Rs.248.62 in April
+Unusual increases found  : 5
+
+============================================================================================
+CONSUMER : K. Srinivasa Rao  (AP-4471288)
+============================================================================================
+Month        Units     Energy    Fixed     Duty  Surcharge      Bill  Remarks
+--------------------------------------------------------------------------------------------
+April          148     334.00   110.00    20.04      0.00    464.04  normal
+May            152     346.00   110.00    20.76      0.00    476.76  rise of 2.7%
+June           161     373.00   110.00    22.38      0.00    505.38  rise of 6.0%
+July           178     424.00   110.00    25.44      0.00    559.44  rise of 10.7%
+August         430    1525.00   110.00    91.50      0.00   1726.50  UNUSUAL RISE of 208.6%
+September      512    1912.00   110.00   114.72     38.24   2174.96  UNUSUAL RISE of 26.0%
+October        398    1381.00   110.00    82.86      0.00   1573.86  fell by 27.6%
+November       341    1124.50   110.00    67.47      0.00   1301.97  fell by 17.3%
+December       300     940.00   110.00    56.40      0.00   1106.40  fell by 15.0%
+January        288     886.00   110.00    53.16      0.00   1049.16  fell by 5.2%
+February       322    1039.00   110.00    62.34      0.00   1211.34  rise of 15.5%
+March          410    1435.00   110.00    86.10      0.00   1631.10  UNUSUAL RISE of 34.7%
+--------------------------------------------------------------------------------------------
+Total units for the year : 3640
+Total amount payable     : Rs.13780.91
+Average units per month  : 303.33
+Average bill per month   : Rs.1148.41
+Highest bill             : Rs.2174.96 in September
+Lowest bill              : Rs.464.04 in April
+Unusual increases found  : 3
+
+============================================================================================
+COMPARISON BETWEEN THE TWO CONSUMERS
+--------------------------------------------------------------------------------------------
+Consumer               Consumer No         Units         Amount  Avg Rs/unit
+--------------------------------------------------------------------------------------------
+Ravuri Jaya Surya      AP-4471205           2343        7687.18         3.28
+K. Srinivasa Rao       AP-4471288           3640       13780.91         3.79
+============================================================================================
+Both bills were generated from the same tariff card,
+so the difference is only because of the number of units consumed.
+============================================================================================

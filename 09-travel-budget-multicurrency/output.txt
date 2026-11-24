@@ -1,0 +1,80 @@
+============================================================================================
+            MULTI-CURRENCY TRAVEL BUDGET ANALYSIS
+            Name : Jaya Surya Ravuri        Roll No : 26000542
+============================================================================================
+Traveller : Ravuri Jaya Surya
+Trip      : South East Asia trip, May 2026
+Budget    : Rs.250000.00
+Rates     : 1 USD = Rs.83.40 | 1 SGD = Rs.61.80 | 1 MYR = Rs.17.75
+            1 THB = Rs.2.32 | 1 EUR = Rs.90.15  (all rates are hypothetical)
+Fees      : cash withdrawal Rs.250 per withdrawal, card markup 2%,
+            money changer fee 1.5% of the converted value
+
+============================================================================================
+EXPENSE WISE CONVERSION
+--------------------------------------------------------------------------------------------
+Day      Category               Amount  Cur Value in Rs   Fee Rs    Total Rs Mode 
+--------------------------------------------------------------------------------------------
+Day 1    Flight ticket          412.00  SGD    25461.60   509.23    25970.83 card 
+Day 1    Airport taxi            28.50  SGD     1761.30   250.00     2011.30 cash 
+Day 2    Hotel                  190.00  SGD    11742.00   234.84    11976.84 card 
+Day 2    Food                    46.00  SGD     2842.80   250.00     3092.80 cash 
+Day 3    Local transport         18.75  SGD     1158.75   250.00     1408.75 cash 
+Day 3    Sight seeing            75.00  SGD     4635.00    92.70     4727.70 card 
+Day 4    Hotel                  420.00  MYR     7455.00   149.10     7604.10 card 
+Day 4    Food                   110.00  MYR     1952.50   250.00     2202.50 cash 
+Day 5    Shopping               260.00  MYR     4615.00    92.30     4707.30 card 
+Day 5    Local transport         34.00  MYR      603.50   250.00      853.50 cash 
+Day 6    Hotel                 2850.00  THB     6612.00   132.24     6744.24 card 
+Day 6    Food                   780.00  THB     1809.60   250.00     2059.60 cash 
+Day 6    Spa and massage       1200.00  THB     2784.00   250.00     3034.00 cash 
+Day 7    Sight seeing          1650.00  THB     3828.00    76.56     3904.56 card 
+Day 7    Local transport        210.00  THB      487.20   250.00      737.20 cash 
+Day 7    Gifts                 2450.00  THB     5684.00   113.68     5797.68 card 
+Day 8    Airport transfer        22.00  SGD     1359.60   250.00     1609.60 cash 
+Day 8    Snacks                  38.00  EUR     3425.70    68.51     3494.21 card 
+--------------------------------------------------------------------------------------------
+TOTAL OF ALL EXPENSES                                                   3719.17    91936.72
+
+============================================================================================
+CATEGORY WISE SPENDING
+--------------------------------------------------------------------------------------------
+Category               Amount in Rs      Share  Bar
+--------------------------------------------------------------------------------------------
+Flight ticket              25970.83      28.2%  ##############
+Airport taxi                2011.30       2.2%  #
+Hotel                      26325.18      28.6%  ##############
+Food                        7354.90       8.0%  ###
+Local transport             2999.45       3.3%  #
+Sight seeing                8632.26       9.4%  ####
+Shopping                    4707.30       5.1%  ##
+Spa and massage             3034.00       3.3%  #
+Gifts                       5797.68       6.3%  ###
+Airport transfer            1609.60       1.8%  
+Snacks                      3494.21       3.8%  #
+--------------------------------------------------------------------------------------------
+Largest expense category : Hotel (Rs.26325.18, 28.6% of the trip)
+
+============================================================================================
+BUDGET COMPARISON
+--------------------------------------------------------------------------------------------
+Planned budget                                                250000.00
+Actual spending (with all fees)                                91936.72
+Fees and markups included                                       3719.17
+Remaining in the budget                                       158063.28
+Budget used                                                        36.8%
+
+Result : the trip is WITHIN the budget.
+         Rs.158063.28 is still available for emergencies or shopping.
+         That is about Rs.19757.91 per day for the remaining days.
+
+--------------------------------------------------------------------------------------------
+WHERE THE EXTRA MONEY WENT
+--------------------------------------------------------------------------------------------
+Card markup paid        : Rs.1469.17
+Cash withdrawal fees    : Rs.2250.00
+Total avoidable charges : Rs.3719.17 (4.0% of the spending)
+Observation : the cash withdrawals cost more than the card markup,
+              so fewer and bigger withdrawals would have saved money.
+============================================================================================
+End of the travel budget report

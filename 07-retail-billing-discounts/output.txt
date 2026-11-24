@@ -1,0 +1,73 @@
+========================================================================================
+                      Sri Lakshmi Super Market, Vijayawada
+                    TAX INVOICE / RETAIL BILL
+========================================================================================
+Bill No : VJA/2026/0417        Date : 17-03-2026        Time : 18:42
+Customer: Ravuri Jaya Surya      Mobile : 98XXXXXX42
+========================================================================================
+Code   Product                Category        Qty      Rate     Value   Tax%     Tax Rs
+R101   Rice 25 kg bag         grocery           1   1450.00   1450.00    5.0      72.50
+R103   Toor dal 2 kg          grocery           2    310.00    620.00    5.0      31.00
+R102   Sunflower oil 5 L      grocery           2    780.00   1560.00    5.0      78.00
+D201   Detergent 4 kg         household         1    420.00    420.00   18.0      75.60
+C301   Chocolate gift pack    confectionery     3    650.00   1950.00   18.0     351.00
+C302   Biscuit combo pack     confectionery     4    240.00    960.00   18.0     172.80
+E401   LED bulb 9 W           electrical        3    130.00    390.00   12.0      46.80
+E402   Extension board        electrical        2    560.00   1120.00   12.0     134.40
+----------------------------------------------------------------------------------------
+TOTAL OF THE ITEMS                                               8470.00            962.10
+========================================================================================
+DISCOUNT CALCULATION
+----------------------------------------------------------------------------------------
+Category             Line value Min needed      Disc%  Discount Rs
+----------------------------------------------------------------------------------------
+grocery                 3630.00       2000       5.0%       181.50
+household                420.00        400       8.0%        33.60
+confectionery           2910.00        900      10.0%       291.00
+electrical              1510.00       1000       6.0%        90.60
+----------------------------------------------------------------------------------------
+Category discount total                                      596.70
+Bill level discount                                          423.50
+Total discount before the cap                               1020.20
+Maximum discount allowed (cap applied)                       900.00
+TOTAL DISCOUNT ALLOWED                                       900.00
+Note : extra 5% because the bill crossed Rs.5000
+
+========================================================================================
+AMOUNT SUMMARY
+----------------------------------------------------------------------------------------
+Value of the goods                                              8470.00
+Less : total discount                                           -900.00
+Value after discount                                            7570.00
+Add : GST / tax                                                  962.10
+Home delivery                                                      FREE
+Rounded off                                                       -0.10
+----------------------------------------------------------------------------------------
+NET AMOUNT PAYABLE                                              8532.00
+========================================================================================
+You saved Rs.900.00 (10.6%) on this purchase.
+
+----------------------------------------------------------------------------------------
+ITEMS BOUGHT
+----------------------------------------------------------------------------------------
+Rice 25 kg bag           1 x  1450.00 =    1450.00
+Toor dal 2 kg            2 x   310.00 =     620.00
+Sunflower oil 5 L        2 x   780.00 =    1560.00
+Detergent 4 kg           1 x   420.00 =     420.00
+Chocolate gift pack      3 x   650.00 =    1950.00
+Biscuit combo pack       4 x   240.00 =     960.00
+LED bulb 9 W             3 x   130.00 =     390.00
+Extension board          2 x   560.00 =    1120.00
+----------------------------------------------------------------------------------------
+Number of item lines : 8
+Total quantity       : 18
+Costliest line       : Chocolate gift pack (Rs.1950.00)
+
+----------------------------------------------------------------------------------------
+LINES THAT COULD NOT BE BILLED
+----------------------------------------------------------------------------------------
+  x Quantity -2 for Dish wash gel 750 ml is not valid - line skipped
+  x Product code X999 is not in the master list - line skipped
+========================================================================================
+Thank you for shopping with us. Please visit again.
+========================================================================================
